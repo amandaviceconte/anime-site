@@ -1,0 +1,17 @@
+.anime-content-resume-wrapper {
+    width: 100%;
+    background: white;
+
+    .anime-content-synopsis, .anime-content-background {
+        margin: 5px;
+        margin-bottom: 10px;
+        text-align: left;
+        span {
+            font-size: 13px;
+            font-weight: bold;
+        }
+        p {
+            font-size: 12px;
+        }
+    }    
+}

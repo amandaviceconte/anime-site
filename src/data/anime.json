@@ -1,0 +1,43 @@
+{
+    "animes": [
+        {
+            "score": "9.23",
+            "users": "977,319",
+            "ranked": 1,
+            "popularity": 4,
+            "members": "1,606,980",
+            "synopsis": "\"In order for something to be obtained, something of equal value must be lost.\" Alchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal  Three years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity. [Written by MAL Rewrite]",
+            "background": "Fullmetal Alchemist: Brotherhood is an alternate retelling of Hiromu Arakawa's Fullmetal Alchemist manga that is closer to the source material than the previous 2003 adaptation, this time covering the entire story. On March 31, 2016, FUNimation Entertainment's license to the series expired.",
+            "alternativeTitles": {
+                "text": "Alternative Titles",
+                "type": ["English", "Synonyms", "Japanese"],
+                "value": ["Fullmetal Alchemist: Brotherhood", "Hagane no Renkinjutsushi: Fullmetal Alchemist, Fullmetal Alchemist (2009), FMA, FMAB", "鋼の錬金術師 FULLMETAL ALCHEMIST"]
+            },
+            "information": {
+                "text": "Information",
+                "type": ["Episodes", "Status", "Aired", "Premiered", "Broadcast", "Producers", "Licensors", "Studios", "Source", "Genres", "Duration", "Rating"],
+                "value": ["TV", "64", "Finished Airing", "Apr 5, 2009 to Jul 4, 2010", "Spring 2009", "Sundays at 17:00 (JST)", "Aniplex, Square Enix, Mainichi Broadcasting System, Studio Moriken", "Funimation, Aniplex of America", "Bones", "Manga", "Action, Military, Adventure, Comedy, Drama, Magic, Fantasy, Shounen", "24 min. per ep.", "R - 17+ (violence & profanity)"]
+            },
+            "statistics": {
+                "text": "Statistics",
+                "type": ["Score", "Ranked", "Popularity", "Members", "Favorites"],
+                "value": ["9.23 (scored by 980,334 users)", "#1", "#4", "1,613,334", "140,184"]
+            },
+            "images" : {
+                "cover": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+                "icons": {
+                    "facebook": "facebook-icon.png",
+                    "twitter": "twitter-icon.png",
+                    "tumblr": "tumblr-icon.png"
+                },
+                "preview": "https://i.ytimg.com/vi/--IcmZkvL0Q/mqdefault.jpg",
+                "episodeVideos": [
+                    "https://img1.ak.crunchyroll.com/i/spire1-tmb/ef258b342d41d99b1a1cd3506e0bd14d1472615431_large.jpg",
+                    "https://img1.ak.crunchyroll.com/i/spire1-tmb/e0769f8a6c9232fa6c7ace13dfabe9fb1472178135_large.jpg",
+                    "https://img1.ak.crunchyroll.com/i/spire4-tmb/2b811b74128b6b9a862097bea220429a1472178178_large.jpg",
+                    "https://img1.ak.crunchyroll.com/i/spire3-tmb/96ea9cb719f4b99bea3c3e412ebcd7041472181293_large.jpg"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+.anime-content-status-wrapper {
+    width: 100%;
+    height: 130px;
+    display: flex;
+    padding-left: 4px;
+
+    .anime-content-left-status {
+        width: 70%;
+        height: 90px;
+        display: flex;
+        background-color: #f6f6f6;
+        border: #ebebeb 1px solid;
+        border-radius: 1px;
+        margin-right: 10px;
+
+        .anime-content-score {
+            width: 20%;
+            max-width: 95px;
+            min-width: 85px;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            flex-grow: 1;
+
+            .anime-content-score-text {
+                width: 80px;
+                font-size: 11px;
+                color: white;
+                background: mediumblue;
+            }
+
+            .anime-content-score-number {
+                font-size: 25px;
+                font-weight: bold;
+            }
+
+            .anime-content-users {
+                font-size: 10px;
+            }
+        }
+
+        .anime-content-numbers {
+            width: 80%;
+            display: flex;
+            align-items: center;
+            justify-content: start;
+            flex-grow: 1;
+            font-size: 13px;
+            border-left: 1px solid lightgray;
+
+            span {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+        }
+    }
+
+    .anime-content-right-image {
+        width: 30%;
+        height: 100%;
+        padding-right: 10px;
+        
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

@@ -1,0 +1,24 @@
+.anime-info-detail-wrapper {
+    width: 100%;
+    margin-top: 12px;
+
+    hr {
+        margin-top: 3px;
+    }
+    
+    .anime-info-detail-title {
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .anime-info-detail-item {
+        font-size: 11px;  
+        margin-top: 5px;
+        margin-bottom: 7px;
+
+        span {
+            color: #444;
+            font-weight: bold;
+        }
+    }   
+}

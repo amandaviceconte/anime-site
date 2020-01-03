@@ -1,0 +1,20 @@
+.anime-content {
+    height: 100%;
+    width: 75%;
+    max-width: 850px;
+    padding: 10px;
+    padding-left: 3px;
+    padding-top: 200px;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+
+    .anime-status {
+        width: calc(100% - 200px);
+        height: 133px;
+        display: flex;
+        background-color: lightgray;
+    }
+}

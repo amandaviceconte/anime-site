@@ -1,0 +1,39 @@
+.anime-info-cover-wrapper {
+    
+    .anime-info-cover-image {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 5px;
+    }
+
+    .anime-info-cover-links {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        margin: 15px;
+        margin-right: 5px;
+        font-size: 11px;
+        text-align: left;
+
+        a {
+            width: 100%;
+            padding-bottom: 5px;
+            margin-top: 3px;
+            text-decoration: none;
+            border-color: #92b0f1;
+            border-style: solid;
+            border-width: 0 0 1px;
+            
+        }
+    }
+
+    .anime-info-cover-icons {
+        display: flex;
+
+        img {            
+            width: 35px;
+            height: 35px;
+            margin-left: 15px;
+        }
+    }
+}
